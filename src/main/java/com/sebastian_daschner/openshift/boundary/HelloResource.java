@@ -9,7 +9,7 @@ public class HelloResource {
 
     @GET
     public String hello() {
-        return "Hello OpenShift";
+        return "Hello Students of the open shift course";
     }
 
 }
